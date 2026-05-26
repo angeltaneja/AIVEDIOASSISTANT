@@ -1,0 +1,14 @@
+.env
+
+# Virtual Environment
+venv/
+
+# Local Vector Database
+vector_db/
+
+# Local Downloads
+downloades/
+
+# Python Cache
+__pycache__/
+*.pyc
