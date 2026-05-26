@@ -1,3 +1,8 @@
+# ==============================================================================
+# Groq API Connection and Llama-3.3-70b-versatile Model Verification Script
+# This script ensures that the environment variables and Groq API key are
+# active and authenticated, returning a sub-second response from the model.
+# ==============================================================================
 import os
 from dotenv import load_dotenv
 load_dotenv()
